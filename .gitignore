@@ -1,3 +1,7 @@
-# IntelliJ / Android Studio
+# IntelliJ / PyCharm
 .idea/
 *.iml
+
+# Python
+__pycache__/
+*.pyc
